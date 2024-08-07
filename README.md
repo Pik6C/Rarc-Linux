@@ -42,5 +42,5 @@ Please refer to the LICENSE file for detailed licensing information on specific 
 
 ## Contact
 
-- **Developer**: [Your Name](mailto:pik6cs@gmail.com)
+- **Developer**: [Pik6C](mailto:pik6cs@gmail.com)
 - **Support**: [Discord Server](https://discord.gg/ARZd97cYyn)
