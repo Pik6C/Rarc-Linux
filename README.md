@@ -32,9 +32,15 @@ Currently, installation instructions are not applicable as ISO images are not ye
 
 ## License
 
-Rarc Linux adheres to the licenses of Arch Linux and each package used. Please refer to the LICENSE file for more details.
+Rarc Linux adheres to the following licensing terms:
+
+- **Linux Kernel**: The Linux kernel is licensed under the GNU General Public License version 2 (GPLv2).
+- **Rarc Linux Userland and Custom Components**: Rarc Linux's userland components and custom desktop environment "Radio" are licensed under the GNU General Public License version 3 (GPLv3).
+
+Please refer to the LICENSE file for detailed licensing information on specific components used in Rarc Linux. The licenses of individual packages and software included in Rarc Linux may vary, and each package's license should be reviewed for compliance.
+
 
 ## Contact
 
-- **Developer**: [Your Name](mailto:your.email@example.com)
-- **Support**: [Discord Server](https://discord.gg/yourserver) or [Forum](https://forum.example.com)
+- **Developer**: [Your Name](mailto:pik6cs@gmail.com)
+- **Support**: [Discord Server](https://discord.gg/ARZd97cYyn)
